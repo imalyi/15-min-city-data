@@ -135,7 +135,6 @@ urls = [
 ]
 
 
-
 class TrojmiastoSpider(scrapy.Spider):
     name = "trojmiasto",
     start_urls = urls
